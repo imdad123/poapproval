@@ -16,7 +16,7 @@
 			<div class="row justify-content-md-center h-100">
 				<div class="card-wrapper">
 					<div class="brand">
-						<img src="img/logo.jpg" alt="logo">
+						<img src="img/logo.png" alt="logo">
 					</div>
 					<div class="card fat">
 						<div class="card-body">
@@ -61,7 +61,7 @@
 						</div>
 					</div>
 					<div class="footer">
-						Copyright &copy; 2017 &mdash; Your Company 
+						Copyright &copy; 2023 &mdash; SBE 
 					</div>
 				</div>
 			</div>
